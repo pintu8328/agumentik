@@ -1,0 +1,121 @@
+.container{
+    width: 80%;
+    height: 1000px;
+    margin-top: 50px;
+    margin: auto;
+    border: 10px solid white;
+   background-color: #fef2e8;
+}
+.span1{
+    color:white;
+    background-color: red;
+    padding: 10px;
+}
+.span2{
+    color: orange;
+}
+.flexDiv1{
+    display: flex;
+    height: 40px;
+    margin: 50px;
+    gap: 20px;
+}
+.flexDiv{
+    display: flex;
+   
+    gap: 20px;
+}
+.flexDiv>div{
+    width: 50%;
+}
+.contactDiv{
+    background-color: orange;
+    color: white;
+    padding: 4px;
+}
+.rupeeDiv{
+    background-color: aliceblue;
+}
+.smallFont{
+    font-size: 0.5ch;
+}
+img{
+    width: 100%;
+}
+.bigFont{
+    font-size: x-large;
+}
+.absoluteDiv{
+    height: 120px;
+    width: 120px;
+    border: 10px solid white;
+    background-color: beige;
+    position: absolute;
+    top: 120px;
+    left: 1080px;
+    z-index: 1;
+}
+.lastFlexDiv{
+    display: flex;
+    background-color: #fef6f0;
+}
+.lastFlexDiv>div{
+    width: 25%;
+}
+.circleDiv{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #fde7d5;
+}
+.h1Div{
+    position: relative;
+    top: -100px;
+}
+.modernStyle{
+    display: flex;
+    background-color: blue;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+}
+.imageDiv{
+    margin: 5px;
+}
+.imageDiv>img{
+    height: 100%;
+}
+.arrowDiv{
+    position: relative;
+    height: 30px;
+    width: 50px;
+    top: 70px;
+    background-color: blue;
+    left: 410px;
+}
+.arrowDiv>div{
+   text-align: center;
+  margin: auto;
+  color: white;
+}
+.modernStyle1{
+    color: red;
+}
+.modernStyle2{
+    color: white;
+}
+.absoluteDiv1{
+     width: 70px;
+     height: 70px;
+     border-radius: 50%;
+}
+.power{
+    color: rgb(211, 211, 103);
+    justify-items: center;
+    margin-top: 50px;
+   
+}
+.powerDiv{
+    display: flex;
+}
+
